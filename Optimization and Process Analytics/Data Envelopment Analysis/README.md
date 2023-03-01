@@ -13,7 +13,8 @@ at Clarksville, Bardstown, Jeffersonville, St. Matthews and New Albany. As our g
 the performance of each branch and present our findings to the higher management at ranch house 
 Inc, it is important that we decide on the right parameters i.e., input and output measures That best 
 reflect the performance of each branch and allow for A comparative study.
-Link:towardsdatascience: https://towardsdatascience.com/data-envelopment-analysis-inlinear-programming-problem-lpp-f0f7bf57e833
+
+Link: https://towardsdatascience.com/data-envelopment-analysis-inlinear-programming-problem-lpp-f0f7bf57e833
 
 ## Method
 Use the solver with the given inputs, outputs and constraints to minimize the efficiency index as compared to the composite unit.
