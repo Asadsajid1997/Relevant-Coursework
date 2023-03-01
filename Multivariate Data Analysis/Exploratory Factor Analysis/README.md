@@ -3,6 +3,7 @@ Performed exploratory factor analysis on a house pricing dataset for the course 
 
 ## Dataset
 We used a housing dataset from Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+
 We converted categorical variables into numerical by encoding them. 
 
 ## Method
