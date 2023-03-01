@@ -11,4 +11,4 @@ SAS was used perfrorm the analysis. P-value was the criteria used to determine t
 Read this code in conjunction with the attached pdf report to make more sense.
 
 ## Result
-After the stepwise regression, we had retained 18 out of 27 variables as important to predict sale price of the house. The overall R-squared with 18 variables was 0.81 which means 81% of the variation in house prices could be explained by the model.
+After the stepwise regression, we had retained 18 out of 27 variables as important to predict sale price of the house. The overall R-squared with 19 variables was 0.81 which means 81% of the variation in house prices could be explained by the model.
