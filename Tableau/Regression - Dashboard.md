@@ -2,10 +2,10 @@
 
 The visualization  for this cannot be uploaded on the Tableau Public because it involves using 'Tabpy' analytics extension and none of the dashboards contained analytics extensions can be published on Tableau Public, therefore, attaching screenshot.
 
+![image](https://github.com/Asadsajid1997/Relevant-Coursework/assets/126636246/3b1e1de9-c9e6-4fbb-a9e1-abea87d92290)
 
-![image](https://github.com/Asadsajid1997/Relevant-Coursework/assets/126636246/43b11562-aba9-46c5-b7f7-d502da1d573d)
 
-Create a worksheet to include products ordered equal to or more than 10 times through all time span, the applied the case swap function using tabpy to product names. Output is a list with 3 columns: product_names, swapped_product_names, and product_order_count.
+1. Created a worksheet to include products ordered equal to or more than 10 times through all time span, the applied the case swap function using tabpy to product names. Output is a list with 3 columns: product_names, swapped_product_names, and product_order_count.
 
 2. Created a worksheet to include the 3 time series lineplots along order date, y-axis are: cumulative sum of sales, cumulative sum of 5 * sales  computed by calculated field in Tableau, running sum of 2 * sales (with 1 former data point, 1 latter data point, and the current data point ) using tabpy. Lines are shown in different colors.  
 
