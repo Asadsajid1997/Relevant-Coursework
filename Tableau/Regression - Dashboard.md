@@ -10,3 +10,5 @@ Create a worksheet to include products ordered equal to or more than 10 times th
 
 4. Created a 2 scatterplot for Sales(x-axis) and Profit(y-axis), colored the dots with positive y values as blue, the negative ones as red, and added regression line in 2 ways. 1) Used Tableau automatically generated setting. 2) Manually computed intercept and slope, coded them in the calculated fields. 
 
+![image](https://github.com/Asadsajid1997/Relevant-Coursework/assets/126636246/43b11562-aba9-46c5-b7f7-d502da1d573d)
+
