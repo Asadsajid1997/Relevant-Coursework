@@ -7,3 +7,6 @@ survey design, fundamental assumptions in analysis of variance (ANOVA), factoria
 multiple comparison tests, randomized block designs, and analysis of covariance, quasi- and
 non-experimental designs, and case studies and longitudinal research, all with applications to
 business and management.
+
+# Software Used: 
+SAS
