@@ -1,4 +1,4 @@
-#Final Project:
+# Final Project:
 
 To study the data warehousing and Business Intelligence (BI) techniques used by a company and present our findings. Here is the link to the our project presentation.
 
